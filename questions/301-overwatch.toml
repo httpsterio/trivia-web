@@ -2,7 +2,7 @@ id = "301"
 name = "Overwatch"
 difficulty = "medium"
 topic = "games"
-hidden = true
+hidden = false
 
 [[questions]]
 question = "Which Overwatch hero is a Korean esports champion who ejects from her exploding mech?"
