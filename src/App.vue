@@ -65,7 +65,9 @@ onUnmounted(() => {
       <QuizScreen v-else :onQuit="() => (state = 'home')" />
     </main>
 
-    <footer class="footer">single-player trivia</footer>
+    <footer class="footer">
+      made by <a href="https://httpster.io" target="_blank" class="snazzy-link">httpster.io</a>
+    </footer>
   </div>
 </template>
 
@@ -105,5 +107,28 @@ main {
   font-family: var(--font-main);
   font-size: 1.2rem;
   color: var(--text-upcoming);
+}
+
+.snazzy-link {
+  color: var(--text-main);
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  padding: 2px 5px;
+  -webkit-text-stroke: 1px var(--text-typed-correct);
+  text-shadow: 2px 2px 0px var(--shadow-color);
+  transition: transform 0.2s;
+  animation: snazzy-wiggle 2s infinite ease-in-out;
+}
+
+.snazzy-link:hover {
+  transform: scale(1.2) rotate(5deg);
+  color: var(--cursor-bg);
+  -webkit-text-stroke: 1px var(--text-main);
+}
+
+@keyframes snazzy-wiggle {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(3deg); }
 }
 </style>

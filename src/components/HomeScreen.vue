@@ -22,7 +22,7 @@ const confirmReset = () => {
 
 <template>
   <div class="home-screen toxic-border">
-    <h1 class="title">Trivia</h1>
+    <h1 class="title">Jykylan Trivia</h1>
 
     <button class="start-btn" @click="onStart">Start Quiz</button>
 
@@ -80,9 +80,11 @@ const confirmReset = () => {
 }
 
 .title {
-  font-size: 4rem;
+  font-size: 3.6rem;
   margin: 0;
   color: var(--text-main);
+  text-transform: uppercase;
+  text-align: center;
   animation: wiggle 1s infinite ease-in-out;
 }
 
