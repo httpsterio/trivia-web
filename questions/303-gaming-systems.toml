@@ -1,0 +1,522 @@
+id = "303"
+name = "Gaming Systems"
+difficulty = "medium"
+topic = "games"
+hidden = false
+
+[[questions]]
+question = "Released in 1972, what was the world's first commercial home video game console?"
+answer = [ "Magnavox Odyssey", "Magnavox", "Odyssey" ]
+
+[[questions]]
+question = "Which early video game console lacked color graphics and required players to stick plastic overlays onto their TV screens?"
+answer = [ "Magnavox Odyssey", "Magnavox", "Odyssey" ]
+
+[[questions]]
+question = "Ralph Baer, known as the Father of Video Games, invented which historic 1972 home console?"
+answer = [ "Magnavox Odyssey", "Magnavox", "Odyssey" ]
+
+[[questions]]
+question = "Which console sued Atari for patent infringement because Pong closely copied its built-in table tennis game?"
+answer = [ "Magnavox Odyssey", "Magnavox", "Odyssey" ]
+
+[[questions]]
+question = "Which first-generation console used large, boxy white controllers featuring control knobs instead of a joystick?"
+answer = [ "Magnavox Odyssey", "Magnavox", "Odyssey" ]
+
+[[questions]]
+question = "Which iconic 1977 home console popularized home gaming with its simple, one-button black joystick?"
+answer = [ "Atari 2600", "Atari VCS", "Atari", "2600" ]
+
+[[questions]]
+question = "A massive arcade port of Space Invaders in 1980 quadrupled the sales of which legendary home console?"
+answer = [ "Atari 2600", "Atari" ]
+
+[[questions]]
+question = "Which home video game system is instantly recognizable by the prominent faux woodgrain paneling on its front face?"
+answer = [ "Atari 2600", "Atari" ]
+
+[[questions]]
+question = "Thousands of unsold cartridges of E.T. the Extra-Terrestrial were buried in a New Mexico landfill after crashing sales for which console?"
+answer = [ "Atari 2600", "Atari" ]
+
+[[questions]]
+question = "Activision was founded by disgruntled programmers who left which dominant hardware company to make games like Pitfall!"
+answer = [ "Atari", "Atari 2600" ]
+
+[[questions]]
+question = "Released in 1982, what is officially listed by Guinness World Records as the highest-selling single computer model of all time?"
+answer = [ "Commodore 64", "C64", "C-64", "Commodore" ]
+
+[[questions]]
+question = "Which 8-bit home system became affectionately known as the Breadbin due to the shape and beige color of its casing?"
+answer = [ "Commodore 64", "C64", "C-64", "Commodore" ]
+
+[[questions]]
+question = "Which home computer famously included exactly 64 kilobytes of RAM and a legendary SID sound chip?"
+answer = [ "Commodore 64", "C64", "C-64", "Commodore" ]
+
+[[questions]]
+question = "The 1541 floppy disk drive and the Datassette tape recorder were major peripherals for which 1980s machine?"
+answer = [ "Commodore 64", "C64", "C-64", "Commodore" ]
+
+[[questions]]
+question = "Which platform dominated the 1980s European home computing market with classic games like Impossible Mission and International Karate?"
+answer = [ "Commodore 64", "C64", "C-64", "Commodore" ]
+
+[[questions]]
+question = "Which dominant 8-bit console single-handedly revived the North American video game industry in 1985 after the 1983 market crash?"
+answer = [ "Nintendo Entertainment System", "NES", "Nintendo" ]
+
+[[questions]]
+question = "To avoid looking like a toy or a video game machine, which system used a front-loading cartridge slot that mimicked a VCR?"
+answer = [ "Nintendo Entertainment System", "NES", "Nintendo" ]
+
+[[questions]]
+question = "Which iconic gray home console came bundled with a plastic robotic companion named R.O.B. to convince toy stores to stock it?"
+answer = [ "Nintendo Entertainment System", "NES", "Nintendo" ]
+
+[[questions]]
+question = "The legendary golden cartridge versions of The Legend of Zelda were released for which 8-bit home console?"
+answer = [ "Nintendo Entertainment System", "NES", "Nintendo" ]
+
+[[questions]]
+question = "Which 1980s console moved away from traditional joysticks by popularizing a flat rectangular controller with a cross-shaped directional pad?"
+answer = [ "Nintendo Entertainment System", "NES", "Nintendo" ]
+
+[[questions]]
+question = "Which 8-bit home console was Sega's main competitor to the NES in the late 1980s?"
+answer = [ "Sega Master System", "Master System", "SMS" ]
+
+[[questions]]
+question = "Alex Kidd served as the official mascot for which 8-bit console before Sonic the Hedgehog was created?"
+answer = [ "Sega Master System", "Master System", "SMS" ]
+
+[[questions]]
+question = "Alongside standard cartridges, which console featured a small slot for cheaper, credit-card-sized games called Sega Cards?"
+answer = [ "Sega Master System", "Master System", "SMS" ]
+
+[[questions]]
+question = "Which console achieved its greatest historical success in Brazil, where it became so popular that it has remained in continuous production for nearly 40 years?"
+answer = [ "Sega Master System", "Master System", "SMS" ]
+
+[[questions]]
+question = "The Sega Scope 3D glasses were a high-tech active-shutter accessory released for which 1980s 8-bit console?"
+answer = [ "Sega Master System", "Master System", "SMS" ]
+
+[[questions]]
+question = "Which 16-bit console ultimately won the global sales race of its generation, anchoring legendary titles like Final Fantasy VI and Chrono Trigger?"
+answer = [
+  "Super Nintendo Entertainment System",
+  "SNES",
+  "Super Nintendo",
+  "Super Famicom"
+]
+
+[[questions]]
+question = "To compete with Sega, which 16-bit console featured a specialized Mode 7 graphics mode that allowed background layers to be rotated and scaled for a 3D effect?"
+answer = [
+  "Super Nintendo Entertainment System",
+  "SNES",
+  "Super Nintendo",
+  "Super Famicom"
+]
+
+[[questions]]
+question = "Which 16-bit console featured a specialized Sony-designed SPC700 audio chip, giving its soundtracks a distinct sound based on compressed audio samples rather than standard synth bleeps?"
+answer = [
+  "Super Nintendo Entertainment System",
+  "SNES",
+  "Super Nintendo",
+  "Super Famicom"
+]
+
+[[questions]]
+question = "What 16-bit home console famously used a Super FX coprocessor chip embedded directly inside cartridges like Star Fox to render real-time 3D polygons?"
+answer = [
+  "Super Nintendo Entertainment System",
+  "SNES",
+  "Super Nintendo"
+]
+
+[[questions]]
+question = "Which home console featured a boxy gray shell with sharp purple-tinted buttons and controls in North America, while the European and Japanese versions featured a sleeker, rounded design with brightly colored controller buttons?"
+answer = [
+  "Super Nintendo Entertainment System",
+  "SNES",
+  "Super Nintendo",
+  "Super Famicom"
+]
+
+[[questions]]
+question = "Which major 16-bit home console introduced an iconic diamond-shaped four-button layout on the right side of its controller, using the letters X, Y, A, and B?"
+answer = [
+  "Super Nintendo Entertainment System",
+  "SNES",
+  "Super Nintendo",
+  "Super Famicom"
+]
+
+[[questions]]
+question = "The incredibly violent 1992 arcade hit Mortal Kombat famously had its blood entirely censored and replaced with gray sweat on which home system?"
+answer = [
+  "Super Nintendo Entertainment System",
+  "SNES",
+  "Super Nintendo"
+]
+
+[[questions]]
+question = "Which 16-bit console launched an aggressive North American marketing campaign centered around the edgy slogan, '[Blank] does what Nintendon't'?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "Which 16-bit home console bragged heavily about its high-speed processing capabilities by labeling its performance as 'Blast Processing'?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "Which 16-bit hardware became famous for its bulky stack of multiple hardware add-ons, including a side-attaching CD drive and a top-loading 32-bit cartridge adapter?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "Which 16-bit console introduced Sonic the Hedgehog as an edgy new flagship mascot specifically designed to challenge Mario and showcase the hardware's high-speed scrolling capabilities?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "The original controller for which 16-bit console featured a stark three-button layout labeled A, B, and C before a six-button version was released for Street Fighter II?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "Which 16-bit console relied on a Yamaha YM2612 FM synthesis sound chip, giving its soundtrack library a distinct, crunchy, metallic audio profile?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "Composer Yuzo Koshiro famously pushed the limits of which 16-bit console's Yamaha sound chip by programming club-ready techno and house music directly in assembly code for Streets of Rage 2?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "Unlike its main competitor, which home console famously allowed the uncensored arcade blood and fatalities in Mortal Kombat via a secret button code (ABACABB)?"
+answer = [ "Sega Genesis", "Genesis", "Sega Mega Drive", "Mega Drive" ]
+
+[[questions]]
+question = "Which 32-bit console suffered a disastrous North American launch when executives unexpectedly announced at E3 1995 that it was already available in stores months ahead of schedule?"
+answer = [ "Sega Saturn", "Saturn" ]
+
+[[questions]]
+question = "Which 32-bit console was notoriously difficult to program for because its internal design used two primary Hitachi SH-2 central processing units instead of a single main processor?"
+answer = [ "Sega Saturn", "Saturn" ]
+
+[[questions]]
+question = "Unlike its main competitors, which 32-bit system rendered 3D graphics using four-sided polygons called quadrilaterals rather than traditional triangles?"
+answer = [ "Sega Saturn", "Saturn" ]
+
+[[questions]]
+question = "Which 32-bit home console was heavily engineered to deliver home ports of massive coin-op hits like Virtua Fighter and Daytona USA?"
+answer = [ "Sega Saturn", "Saturn" ]
+
+[[questions]]
+question = "Which console became a massive success in Japan thanks to a marketing campaign starring Segata Sanshiro, a fictional martial artist who punished people who did not play the system?"
+answer = [ "Sega Saturn", "Saturn" ]
+
+[[questions]]
+question = "Which 32-bit console used an internal watch battery to power its built-in save memory, causing users to lose all their game files when the battery eventually died?"
+answer = [ "Sega Saturn", "Saturn" ]
+
+[[questions]]
+question = "Which 32-bit console featured a top cartridge slot used mostly for memory backups and RAM expansion carts required to play arcade-perfect 2D fighting games?"
+answer = [ "Sega Saturn", "Saturn" ]
+
+[[questions]]
+question = "Which 64-bit console saw major third-party developers flee to competing platforms because manufacturing its proprietary cartridges cost significantly more than pressing a CD?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "Which home console controller pioneered the mainstream adoption of an analog thumbstick for 3D games, featuring a unique trigger button positioned on its underside?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "Which console required a hardware memory upgrade called the Expansion Pak to run specific high-end games like Donkey Kong 64 and Perfect Dark?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "What 64-bit home console was originally announced to the public under the high-tech codenames Project Reality and Ultra 64?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "Which home console partnered with Silicon Graphics to develop its custom hardware, aiming to bring workstation-level 3D graphics into the living room?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "Which 64-bit console was severely bottlenecked by an incredibly small 4 KB texture cache, forcing developers to stretch tiny textures or rely on solid shaded polygons?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "Which console introduced mainstream force feedback to home gaming via a battery-powered accessory that inserted into the bottom of the controller?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "Which console's 1997 first-person shooter GoldenEye 007 is widely credited with proving that FPS games could work well on a home console controller?"
+answer = [ "Nintendo 64", "N64" ]
+
+[[questions]]
+question = "Born out of a failed contract to create a CD-ROM drive for Nintendo, which standalone console went on to dominate the 32-bit generation?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Due to a lack of hardware perspective correction, 3D graphics on which console suffered from distinct texture warping and polygon jitter?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which 32-bit console updated its standard controller mid-generation to feature twin analog sticks and built-in vibration motors, naming it the DualShock?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which 32-bit console famously used distinct black-bottomed CD-ROM discs for its official software library?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which system became the first home video game console in history to ship over 100 million units globally?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which 32-bit console secured Final Fantasy VII as a major exclusive, marking a massive shift of third-party RPG support away from Nintendo?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "What console featured a Japan-only peripheral called the PocketStation, which doubled as a standard memory card and a miniature LCD gaming device?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which 32-bit console lacked any internal save memory, forcing players to manage their files across external 15-block memory cards?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which console lacked an official mascot but used Naughty Dog's Crash Bandicoot as a de facto flagship character to rival Mario and Sonic?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which 32-bit console made lengthy load times a standard part of home gaming, contrasting sharply with its cartridge-based rivals?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which console offered a special matte-black hobbyist development kit called the Net Yaroze to allow enthusiasts to program their own games at home?"
+answer = [ "Sony PlayStation", "PlayStation", "PS1", "PSX" ]
+
+[[questions]]
+question = "Which console was the first to ship with a built-in modem for online play out of the box, launching titles like Phantasy Star Online?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console featured a unique memory card called the VMU that had its own monochrome LCD screen and could play standalone mini games?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "To combat piracy, which system used a proprietary 1 GB optical disc format called the GD-ROM instead of a standard DVD or CD?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console featured a prominent Microsoft Windows CE logo on its front casing to attract PC game developers?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Discontinued in 2001, which console marked the final piece of home hardware ever manufactured by its iconic parent company?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console was plagued by a software exploit involving the MIL-CD format, allowing users to play burned games on standard CDs without a modchip?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console used a massive North American marketing campaign centered entirely around the historic launch date of September 9, 1999?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console shared its architecture with the NAOMI arcade system board, resulting in identical home ports of games like Crazy Taxi?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console saw its momentum halt following the public announcement of a competing next-generation system that promised built-in DVD playback?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console was rushed to retail partly because its parent company was losing massive amounts of money following the commercial failures of the Saturn and its costly hardware add-ons?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console featured a bulky controller criticized for a design quirk where the cable exited from the bottom of the pad facing the player instead of the top?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console pioneered cel-shading as a mainstream 3D art style with the release of Jet Set Radio in 2000?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which console lost its entire EA Sports third-party support before it even launched, forcing its parent company to develop its own competing sports titles?"
+answer = [ "Sega Dreamcast", "Dreamcast" ]
+
+[[questions]]
+question = "Which home console dominated its generation partly because it doubled as one of the most affordable DVD players on the market at launch?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console featured a highly complex, custom central processing unit developed by Sony and Toshiba called the Emotion Engine?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console achieved hardware backward compatibility by physically including the central processing unit of its predecessor to handle input and output operations?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Selling over 155 million units globally, which system holds the record as the best selling home video game console of all time?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console featured a startup screen with glowing towers that changed in height based on the number of save files present on the memory card?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console released an official Linux kit in 2002 that included a hard disk drive, a network adapter, a keyboard, a mouse, and a Linux distribution?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console introduced mainstream camera-based motion control years before the Xbox Kinect with its 2003 EyeToy accessory?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console's 2001 timed exclusive Grand Theft Auto III is widely credited with defining the open-world sandbox genre as a mainstream staple?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console required players to purchase a separate network adapter that screwed into an expansion bay on the back of the system to enable online play?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console's hardware was pushed so far past its intended limits by Shadow of the Colossus that the game frequently suffered from severe frame rate drops?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console offered an official internal hard disk drive expansion that was required to play the online title Final Fantasy XI?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console hosted the 2004 budget title Katamari Damacy, which became one of the most celebrated cult hits of its generation?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console had its hardware pushed to its absolute visual limit by the 2005 action title God of War?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which console remained in active production until 2013, giving it a total manufacturing lifespan of over twelve years?"
+answer = [ "Sony PlayStation 2", "PlayStation 2", "PS2" ]
+
+[[questions]]
+question = "Which sixth-generation console was developed under the codename Project Dolphin and retained a dolphin reference in its model number prefix DOL?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Rather than using standard DVDs, which console opted for proprietary 8cm mini optical discs that limited storage capacity but reduced load times?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console introduced the WaveBird, the first major first-party wireless controller to use RF signals instead of line-of-sight infrared?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which system allowed players to connect a Game Boy Advance via a specialized link cable to use the handheld as a secondary controller with a private screen?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console's early models featured a Digital AV Out port that required an expensive component cable containing its own proprietary digital-to-analog converter chip?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "What console partnered with Panasonic to produce a rare Japan-exclusive hybrid version called the Panasonic Q that added full-sized DVD playback?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console featured a hidden alternative startup theme with laughing kids and a squeaking rubber hammer if the user held down the Z button on a single controller?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console's standard controller featured analog triggers that provided variable input depth followed by a tactile digital click at the bottom of the press?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console secured a high-profile exclusivity deal known as the Capcom Five, which originally promised that Resident Evil 4 would never release on competing hardware?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which home console featured a built-in carrying handle molded into the back of its casing, giving it a distinctive lunchbox appearance?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console's reliance on 1.46 GB mini optical discs forced developers to heavily compress audio and video or cut content compared to DVD-based rivals?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console's flagship Zelda game faced massive fan backlash at its initial reveal due to a drastic shift toward a cartoonish cel-shaded art style?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console's online features were so minimal that they required separate dial-up or broadband adapters to play a tiny library of supported games like Phantasy Star Online?"
+answer = [ "Nintendo GameCube", "GameCube", "NGC", "GCN" ]
+
+[[questions]]
+question = "Which console was the first to include an internal hard disk drive as standard equipment out of the box?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console's launch controller was famously nicknamed the Duke due to its massive size and bulky shape?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console required a separate playback kit with a remote control and receiver dongle to watch DVD movies?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console launched an online network that required a high speed broadband connection and banned dial up entirely?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console's green startup animation was procedurally generated by the hardware on the fly because there was not enough storage space to host a video file?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console was built like a modified PC containing a custom Intel Pentium III processor and an Nvidia graphics card?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console's launch was saved from obscurity by the massive success of Halo Combat Evolved?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console became a major target for software exploits that allowed users to run homebrew applications and media players like XBMC?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console introduced a premium paid online subscription service in 2002 that standardized gamertags and unified friends lists?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console replaced its massive launch controller with a smaller redesigned model called the Controller S after widespread complaints?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console is notorious among hardware collectors for a defective internal clock capacitor that leaks corrosive acid and destroys the motherboard over time?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console derived its final name from the Microsoft graphics API used to develop games for Windows PCs?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console's wired controllers featured inline breakaway cables designed to snap apart if tripped over to prevent the system from crashing to the floor?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console featured an exclusive military simulation game that shipped with a massive forty-button controller and a three-pedal floor unit?"
+answer = [ "Microsoft Xbox", "Xbox" ]
+
+[[questions]]
+question = "Which console allowed players to rip audio CDs directly to the internal storage to play custom soundtracks during gameplay?"
+answer = [ "Microsoft Xbox", "Xbox" ]

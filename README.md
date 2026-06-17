@@ -6,7 +6,7 @@ TypeScript and reusing the visual theme from the `toxic` project.
 ## How it works
 
 - One endless, shuffled pool drawn from all **loaded** (non-hidden) question
-  banks in the sibling `../trivia/questions` repo.
+  banks in this repo's `questions/` folder.
 - **3 tries** per question:
   - correct on the 1st try → **5 points**
   - correct on the 2nd try → **3 points**
@@ -28,7 +28,11 @@ npm run dev      # regenerates questions, then starts Vite on :5173
 
 ## Questions
 
-Question data is generated from the TOML banks into
+The banks are TOML files in `questions/` — owned by this repo, independent of
+the IRC bot. To enable/disable a bank, set `hidden = true` (disabled) or
+`hidden = false` (enabled) at the top of its file.
+
+Question data is generated from those banks into
 `src/data/questions.generated.ts` (git-ignored) by:
 
 ```sh
@@ -37,6 +41,6 @@ npm run questions
 
 This runs automatically before `dev` and `build`. Configuration via env vars:
 
-- `QUESTIONS_DIR` — path to the banks (default: `../trivia/questions`).
+- `QUESTIONS_DIR` — path to the banks (default: `./questions`).
 - `INCLUDE_HIDDEN=1` — also bundle banks marked `hidden = true`
   (e.g. Capitals, Periodic Table, Overwatch, Final Fantasy).

@@ -10,7 +10,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.resolve(__dirname, "..");
 
 const questionsDir =
-  process.env.QUESTIONS_DIR || path.resolve(projectRoot, "../trivia/questions");
+  process.env.QUESTIONS_DIR || path.resolve(projectRoot, "questions");
 const includeHidden = process.env.INCLUDE_HIDDEN === "1";
 const outFile = path.resolve(projectRoot, "src/data/questions.generated.ts");
 
